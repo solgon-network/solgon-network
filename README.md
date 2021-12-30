@@ -1,6 +1,6 @@
 ![SolGon Network](https://github.com/solgon-network/The-KESP-Project/blob/main/solgonnetworklogo.png)
 
-- 🔭 I’m currently working on The KESP Project. The Knowledgebase On The East Side of Pueblo is in invite only project exclusive to residents that live on the east side of Pueblo, Colorado.
+- 🔭 I’m currently working on Metapackage Installers!
 
 - 🌱 I’m currently learning Dart & Flutter! Setting up all the dependancies in Android Studio took me some time, but I am enjoying the Dart language for sure! Big shout out and thank you to [Ahinav Marwaha](https://github.com/abhinavmarwaha) for the guidance and the opprutunity to help develop [LifeHQ](https://github.com/abhinavmarwaha/LifeHQ), an amazing application written in flutter and availble on [Google Play](https://play.google.com/store/apps/details?id=com.abhinavmarwaha.lifehq), [F-Droid](https://f-droid.org/en/packages/com.abhinavmarwaha.lifehq/), [Microsoft Store](https://github.com/abhinavmarwaha/LifeHQ/releases/download/v0.7.0/lifehq.msix), [GitHub](https://github.com/abhinavmarwaha/lifehq/releases/latest), and the [Snap Store](https://snapcraft.io/lifehq)
 
