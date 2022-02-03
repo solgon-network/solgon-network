@@ -15,7 +15,7 @@
 
 
 - 📫 How to reach me: you can reach me at:<br>
-<solgonsol@protonmail.com><br>
+<solgonnetwork@gmail.com><br>
 
 
 ### **Languages:** 
