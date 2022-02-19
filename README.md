@@ -3,7 +3,7 @@
 <img border="0" src="https://wigle.net/bi/kbvz0mY6m6yqebIJ9XMMIg.png">
 </a> <br>
 
-- 🔭 I’m currently working on the main [SolGon Hub!](https://solgon.online)
+- 🔭 I’m currently working on the main [SolGon Hub!](https://solgonnetwork.com)
 
 - 🌱 I’m currently learning Dart & Flutter! Setting up all the dependencies in Android Studio took me some time, but I am enjoying the Dart language for sure! Big shout out and thank you to [Ahinav Marwaha](https://github.com/abhinavmarwaha) for the guidance and the opportunity to help develop [LifeHQ](https://github.com/abhinavmarwaha/LifeHQ), an amazing application written in flutter and available on [Google Play](https://play.google.com/store/apps/details?id=com.abhinavmarwaha.lifehq), [F-Droid](https://f-droid.org/en/packages/com.abhinavmarwaha.lifehq/), [Microsoft Store](https://github.com/abhinavmarwaha/LifeHQ/releases/download/v0.7.0/lifehq.msix), [GitHub](https://github.com/abhinavmarwaha/lifehq/releases/latest), and the [Snap Store](https://snapcraft.io/lifehq)
 
