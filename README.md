@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on the main [SolGon Hub!](https://solgonnetwork.com)
 
-- 🌱 I’m currently studying for my CompTIA Security + and Network + Exams!
+- 🌱 I’m currently studying for my CompTIA Security+ and Network+ Exams!
 
 - 👯 I’m not looking to collaborate on any projects at the moment.
  
